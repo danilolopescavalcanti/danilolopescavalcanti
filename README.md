@@ -7,7 +7,7 @@
 
 ## 📘 Acadêmico
 
-* 🎓 Aluno do **3º período de Ciências da Computação** na **UNINASSAU Graças**
+* 🎓 Aluno do **4º período de Ciências da Computação** na **UNINASSAU Graças**
 * 🤖 Interesse em **desenvolvimento web**, **programação** e áreas futuras como IA
 
 ---
